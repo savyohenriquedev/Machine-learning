@@ -24,3 +24,30 @@ _Vale lembrar que o treinar_module.py serve para treinar a máquina a reonhecer 
 do módulo ficam salvos nos novos arquvios knn.knl criados_
  
 </details>
+
+<details>
+  <summary>Avaliador de senhas diferidas se feitas por um robô ou um humano</summary>
+ <br>
+Este é um projeto simples de inteligência artificial feito só por curiosidade.
+
+A ideia aqui é treinar uma IA para tentar adivinhar se uma senha foi criada por uma pessoa 
+ou se foi gerada automaticamente (como aquelas senhas aleatórias que alguns sites criam).
+
+Parece besteira, mas tem lógica: senhas feitas por humanos geralmente seguem padrões, 
+como nomes, datas ou sequências do teclado (ex: "joao123", "senha2024", "abc123").
+Já as senhas geradas por máquina são bem mais caóticas (ex: "G7#pLx9!Q").
+
+A IA aprende a reconhecer esses padrões com base em alguns critérios simples:
+- Quantidade de letras, números e símbolos
+- Uso de maiúsculas e minúsculas
+- E um pouco de estatística (a chamada "entropia", que mede o quanto a senha parece aleatória)
+
+No final, é só um projetinho leve, mas serve bem como exemplo de:
+- Extração de features manuais
+- Treinamento de modelo com scikit-learn
+- Entrada interativa via terminal
+- Classificação binária (humano vs. máquina)
+
+*Não é um sistema de segurança reaaaaal nem tem base em grandes bancos de dados.
+É só um experimento para brincar com IA de forma prática e direta.*
+</details>
