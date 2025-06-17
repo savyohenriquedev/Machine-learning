@@ -26,7 +26,7 @@ do módulo ficam salvos nos novos arquvios knn.knl criados_
 </details>
 
 <details>
-  <summary>Avaliador de senhas diferidas se feitas por um robô ou um humano</summary>
+  <summary>Avaliador de senhas diferidas se, feitas por um robô ou um humano</summary>
  <br>
 Este é um projeto simples de inteligência artificial feito só por curiosidade.
 
