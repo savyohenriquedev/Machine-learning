@@ -1,7 +1,7 @@
 # Seja bem vindo ao meu repositório!
  Aqui vais encontrar tudo sobre máquinas inteligentes com padrão de conhecimento, inlcuindo modelos de treinamento de IA
 
-## Como executar meus códigos:
+## Como executar:
 
 <details>
   <summary>Sistema de reconhecimento facial</summary>
